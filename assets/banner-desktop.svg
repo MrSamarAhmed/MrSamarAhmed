@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Samaruddin Ahmed — evidence-first AI systems</title>
+  <desc id="desc">Dark navy banner with blue orbital line art, the name Mohammed Samaruddin Ahmed and the handle MrSamarAhmed.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04070F"/>
+      <stop offset="0.55" stop-color="#071224"/>
+      <stop offset="1" stop-color="#0A1B33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="fadeLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.42"/>
+      <stop offset="0.55" stop-color="#1D4ED8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#1D4ED8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mono" cx="0.5" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#0E2242"/>
+      <stop offset="1" stop-color="#07101F"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#1E3A8A" stroke-width="1" stroke-opacity="0.22"/>
+    </pattern>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="26" fill="url(#grid)" opacity="0.5"/>
+  <circle cx="1040" cy="158" r="330" fill="url(#glow)"/>
+
+  <g fill="none" stroke-linecap="round">
+    <ellipse cx="1040" cy="158" rx="258" ry="112" transform="rotate(8 1040 158)" stroke="#1E3A8A" stroke-width="1.1" stroke-opacity="0.35"/>
+    <ellipse cx="1040" cy="158" rx="210" ry="90" transform="rotate(-18 1040 158)" stroke="#1E40AF" stroke-width="1.3" stroke-opacity="0.6"/>
+    <ellipse cx="1040" cy="158" rx="166" ry="70" transform="rotate(24 1040 158)" stroke="#2563EB" stroke-width="1" stroke-opacity="0.4"/>
+    <ellipse cx="1040" cy="158" rx="210" ry="90" transform="rotate(-18 1040 158)" stroke="url(#accent)" stroke-width="2.2" stroke-dasharray="190 470" stroke-dashoffset="40" filter="url(#softGlow)"/>
+    <circle cx="1040" cy="158" r="84" stroke="#1D4ED8" stroke-width="1" stroke-opacity="0.35" stroke-dasharray="3 7"/>
+  </g>
+
+  <g>
+    <circle cx="887" cy="92" r="4.5" fill="#38BDF8" filter="url(#softGlow)"/>
+    <circle cx="1186" cy="196" r="3.5" fill="#60A5FA"/>
+    <circle cx="1012" cy="268" r="3" fill="#818CF8" opacity="0.9"/>
+    <circle cx="1132" cy="68" r="2.5" fill="#93C5FD" opacity="0.8"/>
+  </g>
+
+  <g>
+    <circle cx="1040" cy="158" r="58" fill="url(#mono)" stroke="#1D4ED8" stroke-width="1.4" stroke-opacity="0.9"/>
+    <text x="1040" y="166" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="21" font-weight="600" letter-spacing="4" fill="#93C5FD">MSA</text>
+  </g>
+
+  <text x="1208" y="42" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="2.4" fill="#5B6B84">GITHUB / MRSAMARAHMED</text>
+
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="72" y="62" width="286" height="30" rx="15" fill="#0A1930" stroke="#1D4ED8" stroke-opacity="0.7"/>
+    <circle cx="90" cy="77" r="3" fill="#38BDF8"/>
+    <text x="104" y="81" font-size="10.5" font-weight="600" letter-spacing="3" fill="#7DD3FC">EVIDENCE-FIRST AI SYSTEMS</text>
+
+    <text x="70" y="158" font-size="50" font-weight="700" letter-spacing="-1.2" fill="#F8FAFC">Mohammed Samaruddin Ahmed</text>
+
+    <text x="72" y="199" font-size="18" font-weight="600" fill="#60A5FA">@MrSamarAhmed</text>
+    <circle cx="230" cy="193" r="2.2" fill="#334E73"/>
+    <text x="248" y="199" font-size="16.5" fill="#94A3B8">Research agents · verification-first workflows · local AI</text>
+
+    <rect x="72" y="238" width="104" height="2" rx="1" fill="url(#fadeLine)"/>
+    <text x="72" y="268" font-size="14.5" letter-spacing="0.4" fill="#7C8CA6">Systems that show their work.</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1278.5" height="318.5" rx="25.5" fill="none" stroke="#1E3A8A" stroke-opacity="0.45"/>
+</svg>
