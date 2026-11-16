@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/MrSamarAhmed">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Systems+that+show+their+work.;Evidence-first+AI+%C2%B7+Python+%C2%B7+FastAPI;Verification+before+resolution.;Learning+Go+%C2%B7+GSoC+2027+aspirant" alt="Systems that show their work — evidence-first AI, verification before resolution, learning Go">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Systems+that+show+their+work.;Evidence-first+AI+%C2%B7+Python+%C2%B7+FastAPI;Verification+before+resolution.;Learning+Go+%C2%B7+cloud-native+curious;GSoC+2027+%C2%B7+LFX+Mentorship+aspirant" alt="Systems that show their work — evidence-first AI, verification before resolution, learning Go, GSoC 2027 and LFX Mentorship aspirant">
   </a>
 </p>
 
