@@ -5,15 +5,33 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://github.com/MrSamarAhmed">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Systems+that+show+their+work.;Evidence-first+AI+%C2%B7+Python+%C2%B7+FastAPI;Verification+before+resolution.;Learning+Go+%C2%B7+GSoC+2027+aspirant" alt="Systems that show their work — evidence-first AI, verification before resolution, learning Go">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrSamarAhmed&style=flat-square&color=1D4ED8&label=profile+views" alt="Profile views">
+  <img src="https://img.shields.io/badge/focus-evidence--first_AI-38BDF8?style=flat-square&labelColor=04070F" alt="Focus: evidence-first AI">
+  <img src="https://img.shields.io/badge/open_to-GSoC_2027_%C2%B7_LFX_2027-6366F1?style=flat-square&labelColor=04070F" alt="Open to GSoC 2027 and LFX Mentorship 2027">
+</p>
+
 ## Systems that show their work
 
-I'm Mohammed Samaruddin Ahmed. I build AI systems that have to prove themselves: research agents with inspectable sources, debugging workflows that stop for human approval, and reliability tooling whose success is decided by a verifier rather than a confident sentence.
+I'm Mohammed Samaruddin Ahmed, a Mechanical Engineering undergrad who builds AI systems that have to prove themselves: research agents with inspectable sources, debugging workflows that stop for human approval, and reliability tooling whose success is decided by a verifier rather than a confident sentence.
 
-Most of my projects share one shape: a probabilistic model can propose, but deterministic code decides what counts as done.
+Most of my projects share one shape: **a probabilistic model can propose, but deterministic code decides what counts as done.**
 
 - **Evidence over assertion.** Citations are checked against retrieved sources; fixes are recorded against real test runs.
 - **Verification before resolution.** A recovery or a fix is not finished until a separate verifier confirms it.
 - **Honest failure.** Missing credentials, unproven fixes, and unavailable providers are reported, not papered over.
+
+**Currently**
+
+- 🌱 Learning **Go** from the ground up — fundamentals first, no proficiency claims yet.
+- ☁️ Reading cloud-native codebases (starting with **Meshery**) to prepare for open-source contribution.
+- 🎯 Working toward **GSoC 2027**, with LFX Mentorship 2027 as a parallel track.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -73,27 +91,42 @@ A FastAPI + SQLite table-reservation service produced by a three-agent Architect
 - **[ShipProof](https://github.com/MrSamarAhmed/shipproof)** — A browser-only ledger that audits completion claims against linked JUnit evidence, even when every test in the report passes. TypeScript · Vite · Vitest.
 - **[StandIn](https://github.com/MrSamarAhmed/standin)** — Local-first, reversible pseudonymization for using AI on confidential documents, running entirely in the browser. React · TypeScript · Transformers.js · ONNX.
 
+<img src="./assets/divider.svg" width="100%" alt="">
+
 ## Toolkit
 
-**Languages**<br>
-Python · TypeScript · SQL · JavaScript
+<p align="center">
+  <a href="https://github.com/MrSamarAhmed?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,docker,sqlite,react,nextjs&perline=8" alt="Python, TypeScript, JavaScript, FastAPI, Docker, SQLite, React, Next.js"><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,vite,pytorch,numpy,pytest,git,githubactions&perline=8" alt="Tailwind CSS, Vite, PyTorch, NumPy, pytest, Git, GitHub Actions">
+  </a>
+</p>
 
-**Backend & services**<br>
-FastAPI · Uvicorn · Streamlit · SQLite · Docker · httpx
+**Languages** — Python · TypeScript · SQL · JavaScript<br>
+**Backend & services** — FastAPI · Uvicorn · Streamlit · SQLite · Docker · httpx<br>
+**AI & agents** — Google Gemini · SerpApi · IBM Bob 2.0 · BAND · Qloo · AMD Token Factory · Transformers.js<br>
+**Data & ML** — PyTorch · NumPy · SciPy · ONNX<br>
+**Frontend** — React · Next.js · Tailwind CSS · Vite<br>
+**Testing & delivery** — pytest · Vitest · unittest · GitHub Actions · pnpm
 
-**AI & agents**<br>
-Google Gemini · SerpApi · IBM Bob 2.0 · BAND · Qloo · AMD Token Factory · Transformers.js
+<sub>Only tools that appear in the repositories above are listed; this is not a proficiency ranking. Go is deliberately absent — it is in progress, not yet evidenced.</sub>
 
-**Data & ML**<br>
-PyTorch · NumPy · SciPy · ONNX
+<img src="./assets/divider.svg" width="100%" alt="">
 
-**Frontend**<br>
-React · Next.js · Tailwind CSS · Vite
+## GitHub analytics
 
-**Testing & delivery**<br>
-pytest · Vitest · unittest · GitHub Actions · pnpm
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSamarAhmed&theme=transparent" alt="GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=MrSamarAhmed&hide_border=true&background=04070F&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=5B6B84&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Contribution streak" height="165">
+</p>
 
-<sub>Only tools that appear in the repositories above are listed; this is not a proficiency ranking.</sub>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrSamarAhmed&theme=transparent" alt="Top languages by repository">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSamarAhmed&bg_color=04070F&color=94A3B8&line=38BDF8&point=60A5FA&area=true&hide_border=true&title_color=7DD3FC" alt="Contribution activity graph" width="100%">
+</p>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
